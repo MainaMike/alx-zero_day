@@ -1,1 +1,1 @@
-A README file for root directory
+Enjoying the coding process so far.
